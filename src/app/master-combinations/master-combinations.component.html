@@ -1,0 +1,34 @@
+<h2 *ngIf="!gup || gups[gup]">Master Combinations</h2>
+
+<p *ngIf="!gup">
+This material was taught to me by Master Donnie Meadows.  Master Meadows learned this material from his original instructor, Master Lloyd Francis.  We must always remember these Sa Bom Nim's as we practice and teach this material.
+</p>
+
+<a *ngIf="hasSelected()" routerLink="/master-combinations">Show All</a>
+
+<h3 *ngIf="!gup" [class.light]="start > 5">1-5 work on stance changes</h3>
+<ol>
+  <ng-template ngFor let-item [ngForOf]="data | slice:0:5" let-i="index">
+    <li *ngIf="!gup || item.gup == gup" [value]="i + 1" [class.light]="i + 1 < start || i + 1 > end">
+      <a [name]="i + 1"></a><belt [color]="item.belt" [stripes]="item.stripes"></belt><span [innerHtml]="item.description"></span>
+    </li>
+  </ng-template>
+</ol>
+
+<h3 *ngIf="!gup" [class.light]="(start < 6 && end < 6) || (start > 10 && end < 10)">6-10 are executed in horse stance stressing hand speed and symmetry</h3>
+<ol start="6">
+  <ng-template ngFor let-item [ngForOf]="data | slice:5:10" let-i="index">
+    <li *ngIf="!gup || item.gup == gup" [value]="i + 6" [class.light]="i + 1 < start - 5 || i + 1 > end - 5">
+      <a [name]="i + 6"></a><belt [color]="item.belt" [stripes]="item.stripes"></belt><span [innerHtml]="item.description"></span>
+    </li>
+  </ng-template>
+</ol>
+
+<h3 *ngIf="!gup" [class.light]="start < 11">11-20 are fighting combinations</h3>
+<ol start="11">
+  <ng-template ngFor let-item [ngForOf]="data | slice:10" let-i="index">
+    <li *ngIf="!gup || item.gup == gup" [value]="i + 11" [class.light]="i + 1 < start - 10 || i + 1 > end - 10">
+      <a [name]="i + 11"></a><belt [color]="item.belt" [stripes]="item.stripes"></belt><span [innerHtml]="item.description"></span>
+    </li>
+  </ng-template>
+</ol>

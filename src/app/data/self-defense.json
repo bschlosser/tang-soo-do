@@ -1,0 +1,170 @@
+[
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "category": "White Belt",
+    "description": "Hitch Hicker (cross hand)"
+  },
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "category": "White Belt",
+    "description": "Picking up a dime (same side)"
+  },
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "category": "White Belt",
+    "description": "Teter toter (two on two)"
+  },
+  {
+    "belt": "orange",
+    "stripes": 0,
+    "gup": 8,
+    "category": "White Belt",
+    "description": "Looking for rain (double cross)"
+  },
+  {
+    "belt": "orange",
+    "stripes": 0,
+    "gup": 8,
+    "category": "White Belt",
+    "description": "Don't pull my hair (top of the head)"
+  },
+  {
+    "belt": "orange",
+    "stripes": 1,
+    "gup": 7,
+    "category": "Cross Hand",
+    "description": "Step in elbow, extend that arm knife hand, open stance reverse palm, switch stance low groin strike (keep hand up to guard), switch stance check chest."
+  },
+  {
+    "belt": "orange",
+    "stripes": 1,
+    "gup": 7,
+    "category": "Cross Hand",
+    "description": "\"Pizza Pie\" step out to side knife hand, reverse palm, low groin strike(keeping hand up to guard), switch stance check chest."
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "category": "Cross Hand",
+    "description": "Baby step to the right, grab \"c-clamp\" fingers up. Step across body, pin their hand, elbow to the face, pin the hand on your hip, spin elbow."
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "category": "Cross Hand",
+    "description": "\"Hokey Pokey,\" they grab you, you grab them, then grab them \"c-clamp\" thumb up. Step left in, elbow tap, step left out bring the grip over and towards you, head butt."
+  },
+  {
+    "belt": "green",
+    "stripes": 1,
+    "gup": 5,
+    "category": "Same Side",
+    "description": "Step outside, elbow. \"Up\" (back fist), \"down\" hammer strike (switch stance away), rock stance, ridge hand to neck."
+  },
+  {
+    "belt": "green",
+    "stripes": 1,
+    "gup": 5,
+    "category": "Same Side",
+    "description": "\"Wave Hi\" simultaneously shoot hand and foot out with a knife hand to the collarbone, grab neck and knee kick."
+  },
+  {
+    "belt": "green",
+    "stripes": 1,
+    "gup": 5,
+    "category": "Same Side",
+    "description": "Grab under your trapped hand (grabbing their hand), step across left foot, hand comes over, step back right. Punch left, distance step roundkick, come back in \"make the pain.\""
+  },
+  {
+    "belt": "green",
+    "stripes": 1,
+    "gup": 5,
+    "category": "Same Side",
+    "description": "Feed their hand towards you (both of your thumbs on back of their hand) and step back with right foot, check angle of their arm, \"punt the face\" step in elbow on their back."
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "category": "Two on One",
+    "description": "\"Chicken wing,\" shoot hand down then inside-outside knife hand pinning their hand on their chest. Take elbow and step with left across, elbow to the back."
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "category": "Two on One",
+    "description": "\"Right, right, right!\" Reach in grab your hand, step in right elbow up, rock back right groin kick, right vertical punch."
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "category": "Two on One",
+    "description": "\"Pocket faucet\" grab hand \"c-clamp\" thumb up. Step left, put their hands in their pocket, bring right foot up and put their hand on your patch, twist, step out punch."
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "category": "Two on Two",
+    "description": "Shoot out right foot and hands in knife hand positions, then rock stance one knife hand to neck and other to rib."
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "category": "Two on Two",
+    "description": "Step right, check left hand down, right hand up, switch stance unfold right hand into knife hand to neck."
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "category": "Two on Two",
+    "description": "Same as SAME SIDE #3"
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "category": "Two on Two",
+    "description": "\"Clap hand\" and \"miss\" catching their hand and free your right hand. Back fist to the groin, grab their hand \"c-clamp\" thumb up. Step left foot across body, bring right foot up. Put hand on the patch and twist. Step out punch."
+  },
+  {
+    "belt": "red",
+    "stripes": 1,
+    "gup": 2,
+    "category": "Side Grip",
+    "description": "Short (faucet grip) - step back and shrug arms (like putting on a big jacket), grab their hand and step under their arm you grabbed, put them in the faucet grip and punch."
+  },
+  {
+    "belt": "red",
+    "stripes": 1,
+    "gup": 2,
+    "category": "Side Grip",
+    "description": "Long (wagon wheel) - back kick to knee and step down, then open hands and make big circles, grab their hands and step back. Their elbows should be touching and then step forward and crank their arms."
+  },
+  {
+    "belt": "red",
+    "stripes": 2,
+    "gup": 1,
+    "category": "Behind Grip",
+    "description": "Natural Grip - side kick knee, then grab under their hand. Pry grip and support behind their hand. Step out and round kick."
+  },
+  {
+    "belt": "red",
+    "stripes": 2,
+    "gup": 1,
+    "category": "Behind Grip",
+    "description": "Unnatural Grip (disciplining the child grip) - grab their hand (c-clamp thumb up), side kick knee. Then break down wrist, go over their elbow and sit down on it until they tap."
+  }
+]

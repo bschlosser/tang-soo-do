@@ -1,0 +1,56 @@
+[
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "description": "Stomp Kick"
+  },
+  {
+    "belt": "orange",
+    "stripes": 0,
+    "gup": 8,
+    "description": "Hammer Strike"
+  },
+  {
+    "belt": "orange",
+    "stripes": 1,
+    "gup": 7,
+    "description": "Front Kick"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "description": "Elbow Strike"
+  },
+  {
+    "belt": "green",
+    "stripes": 1,
+    "gup": 5,
+    "description": "Jump Front Kick"
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "description": "Jump Side Kick"
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "description": "Spin Heel Kick"
+  },
+  {
+    "belt": "red",
+    "stripes": 1,
+    "gup": 2,
+    "description": "Jump Roundhouse Kick"
+  },
+  {
+    "belt": "red",
+    "stripes": 2,
+    "gup": 1,
+    "description": "Jump Back Kick"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "description": "Front"
+  },
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "description": "Roundhouse"
+  },
+  {
+    "belt": "orange",
+    "stripes": 0,
+    "gup": 8,
+    "description": "Side"
+  },
+  {
+    "belt": "orange",
+    "stripes": 0,
+    "gup": 8,
+    "description": "Jump Front"
+  },
+  {
+    "belt": "orange",
+    "stripes": 1,
+    "gup": 7,
+    "description": "Inside/Outside"
+  },
+  {
+    "belt": "orange",
+    "stripes": 1,
+    "gup": 7,
+    "description": "Outside/Inside"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "description": "Back"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "description": "Hook"
+  },
+  {
+    "belt": "green",
+    "stripes": 1,
+    "gup": 5,
+    "description": "Spinning Short"
+  },
+  {
+    "belt": "green",
+    "stripes": 1,
+    "gup": 5,
+    "description": "Spinning Long"
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "description": "Jump Roundhouse"
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "description": "Front Leg (all kicks)"
+  },
+  {
+    "belt": "red",
+    "stripes": 1,
+    "gup": 2,
+    "description": "Jump Version (all kicks)"
+  }
+]

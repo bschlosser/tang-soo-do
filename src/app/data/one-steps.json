@@ -1,0 +1,198 @@
+[
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "category": "basic",
+    "description": "Step forward right foot, left hand block, right hand punch"
+  },
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "category": "basic",
+    "description": "Step forward right foot, left punch; twist hips, left block and right hand knife hand strike"
+  },
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "category": "basic",
+    "description": "Step forward right foot, left punch; cross hands, left hand backfist"
+  },
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "category": "basic",
+    "description": "Lift right leg, right hand palm block across; cross hands, right hand back fist to nose"
+  },
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "category": "basic",
+    "description": "Lift right leg, right hand palm block across; right step with right elbow strike, twist left elbow strike; step away, check for “bad guys”"
+  },
+  {
+    "belt": "orange",
+    "stripes": 0,
+    "gup": 8,
+    "category": "basic",
+    "description": "Lift right leg, right hand palm block down; cross hands, right step, right hand back fist strike"
+  },
+  {
+    "belt": "orange",
+    "stripes": 0,
+    "gup": 8,
+    "category": "basic",
+    "description": "Lift right leg, right hand palm block down; cross hands, right step, right hand knife hand strike"
+  },
+  {
+    "belt": "orange",
+    "stripes": 0,
+    "gup": 8,
+    "category": "basic",
+    "description": "Step left, block left with open hand (front stance); twist hips for right hand reverse punch"
+  },
+  {
+    "belt": "orange",
+    "stripes": 0,
+    "gup": 8,
+    "category": "basic",
+    "description": "Step left, double open hand block (back stance); left step for right hand reverse punch, twist hips for left hand reverse punch, twist hips for right hand reverse punch"
+  },
+  {
+    "belt": "orange",
+    "stripes": 0,
+    "gup": 8,
+    "category": "basic",
+    "description": "Step forward with left foot (front stance), high block; maintain block, right hand punch to face; re-chamber to guard position, punch to low abdomen"
+  },
+  {
+    "belt": "orange",
+    "stripes": 1,
+    "gup": 7,
+    "category": "intermediate",
+    "description": "R. Inside. Step right, check left, punch, punch, left foot moves, right roundhouse kick"
+  },
+  {
+    "belt": "orange",
+    "stripes": 1,
+    "gup": 7,
+    "category": "intermediate",
+    "description": "R. Outside. Step left, check right, punch, punch, right foot moves, left roundhouse kick"
+  },
+  {
+    "belt": "orange",
+    "stripes": 1,
+    "gup": 7,
+    "category": "intermediate",
+    "description": "R. Inside. Step right, right outside inside block, punch, punch, left foot moves, right side kick"
+  },
+  {
+    "belt": "orange",
+    "stripes": 1,
+    "gup": 7,
+    "category": "intermediate",
+    "description": "R. Outside. Step left, left outside inside block ,punch, punch, right foot moves, left side kick"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "category": "intermediate",
+    "description": "R. Inside. Right front kick, right outside inside block, punch, knock hand down, left short kick"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "category": "intermediate",
+    "description": "R. Outside. Left front kick, left outside inside block, punch, knock hand down, right short kick"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "category": "intermediate",
+    "description": "R. Inside. Right outside inside kick, side kick, left punch, hook neck, left knee, right elbow (neck)"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "category": "intermediate",
+    "description": "L. Inside. Left outside inside kick, side kick, right punch, hook neck, right knee, left elbow (neck)"
+  },
+  {
+    "belt": "green",
+    "stripes": 1,
+    "gup": 5,
+    "category": "intermediate",
+    "description": "R. Inside. Right front kick, right back kick, right open hand check, left punch, knock hand down, right palm strike"
+  },
+  {
+    "belt": "green",
+    "stripes": 1,
+    "gup": 5,
+    "category": "intermediate",
+    "description": "L. Inside. Left front kick, left back kick, left open hand check, right punch, knock hand down, left palm strike"
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "category": "intermediate",
+    "description": "R. Inside. Left front kick, right roundhouse kick, left spinning short kick, left lunge punch"
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "category": "intermediate",
+    "description": "L. Inside. Right front kick, left roundhouse kick, right spinning short kick, right lunge punch"
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "category": "intermediate",
+    "description": "R. Outside. Right open hand check, grab, right roundhouse kick, short kick, grab left shoulder, left soccer sweep, drop to knee, punch to face"
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "category": "intermediate",
+    "description": "L. Outside. Left open hand check, grab, left roundhouse kick, short kick, grab right shoulder, right soccer sweep, drop to knee, punch to face"
+  },
+  {
+    "belt": "red",
+    "stripes": 1,
+    "gup": 2,
+    "category": "intermediate",
+    "description": "R. Outside. Right open hand check, right round house, sidekick, left wrist strike to kidney, clear punch, right punch to ribs, prepare hands, knife hand ridge hand to knee, finish high"
+  },
+  {
+    "belt": "red",
+    "stripes": 1,
+    "gup": 2,
+    "category": "intermediate",
+    "description": "L. Outside. Left open hand check, left round house, sidekick, right wrist strike to kidney, clear punch, left punch to ribs, prepare hands, knife hand ridge hand to knee, finish high"
+  },
+  {
+    "belt": "red",
+    "stripes": 2,
+    "gup": 1,
+    "category": "intermediate",
+    "description": "R/L. Outside. Palm block & strike, right ridge hand(second punch), left palm strike, right jump spinning short kick"
+  },
+  {
+    "belt": "red",
+    "stripes": 2,
+    "gup": 1,
+    "category": "intermediate",
+    "description": "L/R. Outside. Palm block & strike, left ridge hand(second punch), right palm strike, left jump spinning short kick"
+  }
+]

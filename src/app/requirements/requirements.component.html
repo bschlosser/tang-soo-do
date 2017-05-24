@@ -1,0 +1,121 @@
+<h2>Test Requirements</h2>
+<table class="table table-sm table-bordered table-responsive">
+  <thead>
+    <tr>
+      <th>Belt</th>
+      <th class="link" (click)="navigate('/basic-set')"><a routerLink="/basic-set">Hand Techniques</a></th>
+      <th class="link" (click)="navigate('/kicks')"><a routerLink="/kicks">Kicking Techniques</a></th>
+      <th class="link" (click)="navigate('/master-combinations')"><a routerLink="/master-combinations">Master Combinations</a></th>
+      <th class="link" (click)="navigate('/forms')"><a routerLink="/forms">Forms</a></th>
+      <th class="link" (click)="navigate('/one-steps')"><a routerLink="/one-steps">One Steps</a></th>
+      <th class="link" (click)="navigate('/self-defense')"><a routerLink="/self-defense">Self Defense</a></th>
+      <th>Sparring</th>
+      <th class="link" (click)="navigate('/breaking')"><a routerLink="/breaking">Breaking</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="white">
+      <th>White</th>
+      <td colspan="8">Promise to train hard !!!!</td>
+    </tr>
+    <tr class="white 1-stripe">
+      <th><a [routerLink]="['/single-page', { gup: 9 }]">White <span class="stripe">|</span></a></th>
+      <td>Basic Set <span class="name">Front Stance</span> <a class="name" [routerLink]="['/basic-set', { category: 'front-stance', start: '1', end: '6' }]">1-6</a></td>
+      <td>Front &amp; Roundhouse</td>
+      <td></td>
+      <td>Basic Form <a [routerLink]="['/forms/basic', { start: '1', end: '1' }]">1</a></td>
+      <td>Basic <a class="name" [routerLink]="['/one-steps', { category: 'basic', start: '1', end: '5' }]">1-5</a></td>
+      <td>White Belt <a class="name" [routerLink]="['/self-defense', { category: 'White Belt', start: '1', end: '3' }]">1-3</a></td>
+      <td></td>
+      <td>Stomp Kick</td>
+    </tr>
+    <tr class="orange">
+      <th><a [routerLink]="['/single-page', { gup: 8 }]">Orange</a></th>
+      <td></td>
+      <td>Side &amp; <span class="name">Jump Front</span></td>
+      <td><a [routerLink]="['/master-combinations', { start: '1', end: '3' }]">1-3</a></td>
+      <td>Basic Form <a [routerLink]="['/forms/basic', { start: '2', end: '3' }]">2-3</a></td>
+      <td>Basic <a class="name" [routerLink]="['/one-steps', { category: 'basic', start: '6', end: '10' }]">6-10</a></td>
+      <td>White Belt <a class="name" [routerLink]="['/self-defense', { category: 'White Belt', start: '4', end: '5' }]">4-5</a></td>
+      <td></td>
+      <td>Hammer Strike</td>
+    </tr>
+    <tr class="orange 1-stripe">
+      <th><a [routerLink]="['/single-page', { gup: 7 }]">Orange <span class="stripe">|</span></a></th>
+      <td></td>
+      <td>Inside/Outside &amp; Outside/Inside</td>
+      <td></td>
+      <td><a routerLink="/forms/pyong-ahn-cho-dan" class="name">Pyong Ahn Cho Dan</a> &amp; <a routerLink="/forms/chil-sang-ee-rho" class="name">Chil Sang Ee Rho</a></td>
+      <td>Intermediate <a class="name" [routerLink]="['/one-steps', { category: 'intermediate', start: '1', end: '4' }]">1-4</a></td>
+      <td>Cross Hand <a class="name" [routerLink]="['/self-defense', { category: 'Cross Hand', start: '1', end: '2' }]">1-2</a></td>
+      <td></td>
+      <td>Front Kick</td>
+    </tr>
+    <tr class="green">
+      <th><a [routerLink]="['/single-page', { gup: 6 }]">Green</a></th>
+      <td>Basic Set <span class="name">Front Stance</span> <a class="name" [routerLink]="['/basic-set', { category: 'front-stance', start: '7', end: '12' }]">7-12</a></td>
+      <td>Back &amp; Hook</td>
+      <td><a [routerLink]="['/master-combinations', { start: '4', end: '4' }]">4</a></td>
+      <td><a routerLink="/forms/pyong-ahn-e-dan" class="name">Pyong Ahn E Dan</a></td>
+      <td>Intermediate <a class="name" [routerLink]="['/one-steps', { category: 'intermediate', start: '5', end: '8' }]">5-8</a></td>
+      <td><span class="name">Cross Hand</span> <a class="name" [routerLink]="['/self-defense', { category: 'Cross Hand', start: '3', end: '4' }]">3-4</a></td>
+      <td></td>
+      <td>Elbow strike</td>
+    </tr>
+    <tr class="green 1-stripe">
+      <th><a [routerLink]="['/single-page', { gup: 5 }]">Green <span class="stripe">|</span></a></th>
+      <td></td>
+      <td>Spinning Short &amp; Long</td>
+      <td><a [routerLink]="['/master-combinations', { start: '5', end: '5' }]">5</a></td>
+      <td><a routerLink="/forms/pyong-ahn-sam-dan" class="name">Pyong Ahn Sam Dan</a></td>
+      <td>Intermediate <a class="name" [routerLink]="['/one-steps', { category: 'intermediate', start: '9', end: '10' }]">9-10</a></td>
+      <td><span class="name">Same Side</span> <a class="name" [routerLink]="['/self-defense', { category: 'Same Side', start: '1', end: '4' }]">1-4</a></td>
+      <td>Yes</td>
+      <td>Jump <span class="name">Front Kick</span></td>
+    </tr>
+    <tr class="green 2-stripe">
+      <th><a [routerLink]="['/single-page', { gup: 4 }]">Green <span class="stripe">||</span></a></th>
+      <td>Basic Set <span class="name">Front Stance</span> <a class="name" [routerLink]="['/basic-set', { category: 'front-stance', start: '13', end: '18' }]">13-18</a></td>
+      <td>Jump Roundhouse</td>
+      <td><a [routerLink]="['/master-combinations', { start: '6', end: '6' }]">6</a></td>
+      <td><a routerLink="/forms/pyong-ahn-sa-dan" class="name">Pyong Ahn Sa Dan</a></td>
+      <td>Intermediate <a class="name" [routerLink]="['/one-steps', { category: 'intermediate', start: '11', end: '12' }]">11-12</a></td>
+      <td><span class="name">Two on One</span> <a class="name" [routerLink]="['/self-defense', { category: 'Two on One', start: '1', end: '3' }]">1-3</a></td>
+      <td>Yes</td>
+      <td>Jump <span class="name">Side Kick</span></td>
+    </tr>
+    <tr class="red">
+      <th><a [routerLink]="['/single-page', { gup: 3 }]">Red</a></th>
+      <td>Basic Set <span class="name">Front Stance</span> <a class="name" [routerLink]="['/basic-set', { category: 'front-stance', start: '19', end: '24' }]">19-24</a></td>
+      <td>Front Leg <span class="name">(all kicks)</span></td>
+      <td><a [routerLink]="['/master-combinations', { start: '7', end: '7' }]">7</a></td>
+      <td><a routerLink="/forms/pyong-ahn-o-dan" class="name">Pyong Ahn O Dan</a> &amp; <a routerLink="/forms/chil-sang-il-ro" class="name">Chil Sang Il Ro</a></td>
+      <td>Intermediate <a class="name" [routerLink]="['/one-steps', { category: 'intermediate', start: '13', end: '14' }]">13-14</a></td>
+      <td><span class="name">Two on Two</span> <a class="name" [routerLink]="['/self-defense', { category: 'Two on Two', start: '1', end: '4' }]">1-4</a></td>
+      <td>Yes</td>
+      <td>Spin <span class="name">Heel Kick</span></td>
+    </tr>
+    <tr class="red 1-stripe">
+      <th><a [routerLink]="['/single-page', { gup: 2 }]">Red <span class="stripe">|</span></a></th>
+      <td></td>
+      <td>Jump Version <span class="name">(all kicks)</span></td>
+      <td><a [routerLink]="['/master-combinations', { start: '8', end: '8' }]">8</a></td>
+      <td><a routerLink="/forms/bassai" class="name">Bassai</a></td>
+      <td>Intermediate <a class="name" [routerLink]="['/one-steps', { category: 'intermediate', start: '15', end: '16' }]">15-16</a></td>
+      <td><span class="name">Side Grip</span> <a class="name" [routerLink]="['/self-defense', { category: 'Side Grip', start: '1', end: '2' }]">1-2</a></td>
+      <td>Yes</td>
+      <td>Jump Roundhouse Kick</td>
+    </tr>
+    <tr class="red 2-stripe">
+      <th><a [routerLink]="['/single-page', { gup: 1 }]">Red <span class="stripe">||</span></a></th>
+      <td>Basic Set <span class="name">Back Stance</span> <a class="name" [routerLink]="['/basic-set', { category: 'back-stance', start: '1', end: '30' }]">1-30</a></td>
+      <td></td>
+      <td><a [routerLink]="['/master-combinations', { start: '9', end: '10' }]">9-10</a></td>
+      <td><a routerLink="/forms/chil-sang-sam-ro" class="name">Chil Sang Sam Ro</a></td>
+      <td>Intermediate <a class="name" [routerLink]="['/one-steps', { category: 'intermediate', start: '17', end: '18' }]">17-18</a></td>
+      <td><span class="name">Behind Grip</span> <a class="name" [routerLink]="['/self-defense', { category: 'Behind Grip', start: '1', end: '2' }]">1-2</a></td>
+      <td>Yes</td>
+      <td>Jump <span class="name">Back Kick</span></td>
+    </tr>
+  </tbody>
+</table>

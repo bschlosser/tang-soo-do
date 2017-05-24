@@ -1,0 +1,19 @@
+<h2>Self Defense <small class="text-muted">Ho Sin Sul</small></h2>
+<p *ngIf="!gup">Note: “Thank you” to Ms Holly Holt for putting these together for our students</p>
+
+<a *ngIf="selectedCategory" routerLink="/self-defense">Show All</a>
+
+<ng-template ngFor let-category [ngForOf]="categories">
+  <div *ngIf="(!hasSelected() || isSelected(category)) && (!gup || (gup >= category.min && gup <= category.max))">
+    <h5 style="text-transform: capitalize;">{{ category.name }}</h5>
+    <p *ngIf="category.name === 'basic'">Note: 1 and 10 are like <i>book ends</i> – they are unique. The rest come in pairs (similar first moves).</p>
+
+    <ol start="{{ start }}">
+      <ng-template ngFor let-item [ngForOf]="category.data" let-i="index">
+        <li *ngIf="!gup || item.gup == gup" [value]="i + 1" [class.light]="i + 1 < start || i + 1 > end">
+          <belt [color]="item.belt" [stripes]="item.stripes"></belt> {{ item.description }}
+        </li>
+      </ng-template>
+    </ol>
+  </div>
+</ng-template>

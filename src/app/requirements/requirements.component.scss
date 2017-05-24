@@ -1,0 +1,59 @@
+@import '../colors';
+
+thead {
+  background-color: #ffe9c3;
+}
+
+th, td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+table > tbody > tr > th, .name {
+  white-space: nowrap;
+}
+
+th a {
+  display: block;
+}
+
+th.link {
+  cursor: pointer;
+}
+
+.stripe {
+  color: $blue;
+  font-weight: bolder;
+}
+
+.white {
+}
+
+$lightblue: #9bd1ff;
+
+.orange {
+  background-color: $orange;
+  color: white;
+  
+  a {
+    color: $lightblue;
+  }
+}
+
+.green {
+  background-color: $green;
+  color: white;
+  
+  a {
+    color: $lightblue;
+  }
+}
+
+.red {
+  background-color: $red;
+  color: white;
+  
+  a {
+    color: $lightblue;
+  }
+}

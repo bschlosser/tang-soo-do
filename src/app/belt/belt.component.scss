@@ -1,0 +1,24 @@
+@import '../colors';
+
+.belt {
+  stroke: black;
+  fill: white;
+  stroke-width: 1px;
+
+  &.orange {
+    fill: $orange;
+  }
+  &.green {
+    fill: $green;
+  }
+  &.red {
+    fill: $red;
+  }
+  &.black {
+    fill: $black;
+  }
+}
+
+.stripe {
+  fill: $blue;
+}

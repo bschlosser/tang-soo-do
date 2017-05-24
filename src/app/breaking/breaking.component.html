@@ -1,0 +1,11 @@
+<h2>Breaking</h2>
+
+<!-- <a *ngIf="gup" routerLink="/breaking">Show All</a> -->
+
+<ul>
+  <ng-template ngFor let-item [ngForOf]="data">
+    <li *ngIf="!gup || item.gup == gup">
+        <belt [gup]="item.gup"></belt> {{ item.description }}
+    </li>
+  </ng-template>
+</ul>

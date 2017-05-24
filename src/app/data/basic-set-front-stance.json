@@ -1,0 +1,170 @@
+[
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "korean": "Ha Dan Mahk Kee",
+    "english": "low block"
+  },
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "korean": "Choong Dan Kong Kyuck",
+    "english": "middle attack"
+  },
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "korean": "Sang Dan Kong Kyuck",
+    "english": "high attack"
+  },
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "korean": "Ahneso Phakuro Mahk Kee",
+    "english": "inside / outside block"
+  },
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "korean": "Phakeso Ahnuro Mahk Kee",
+    "english": "outside / inside block"
+  },
+  {
+    "belt": "white",
+    "stripes": 1,
+    "gup": 9,
+    "korean": "Sang Dan Mahk Kee",
+    "english": "high block"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "korean": "Ha Dan Ssang Soo Mahk Kee",
+    "english": "low cross block"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "korean": "Chong Dan Ssang Soo Mahk Kee",
+    "english": "middle cross block"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "korean": "Sang Dan Ssang Soo Mahk Kee",
+    "english": "high cross block"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "korean": "Sang Dan Mahk Kee, Teul Oh Choong Dan Kong Kyuck",
+    "english": "high block, reverse middle attach"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "korean": "Chun Gul Ssang Soo Mahk Kee",
+    "english": "reinforced block"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "korean": "Soo Do Mahk Kee",
+    "english": "check block"
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "korean": "Soo Do Mahk Kee, Choong Dan Kong Kyuck",
+    "english": "check block, snapping middle punch"
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "korean": "Soo Do Mahk Kee, Sang Dan Kong Kyuck",
+    "english": "check block, snapping high punch"
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "korean": "Teul Oh Pal Coop Mahk Kee",
+    "english": "reverse elbow defense"
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "korean": "Teul Oh Pal Coop Kong Kyuck",
+    "english": "reverse elbow attack"
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "korean": "Teul Oh Sang Dan Kwan Soo Kong Kyuck",
+    "english": "reverse high spear hand attack"
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "korean": "Teul Oh Sang Dan Jang Kwan Kong Kyuck",
+    "english": "reverse high palm attack"
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "korean": "Teul Oh Choong Dan Jang Kwan Kong Kyuck",
+    "english": "reverse middle palm attack"
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "korean": "Teul Oh Mok Kwan Soo Kong Kyuck",
+    "english": "reverse throat spear hand attack"
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "korean": "Teul Oh Ha Dan Kwan Soo Kong Kyuck",
+    "english": "reverse low spear hand attack"
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "korean": "Teul Oh Choong Dan Kong Kyuck",
+    "english": "reverse middle attack"
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "korean": "Teul Oh San Dan Kong Kyuck",
+    "english": "reverse high attack"
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "korean": "Teul Oh Sang dan Yuk Soo Do Kong Kyuck",
+    "english": "reverse high ridge hand attack"
+  }
+]

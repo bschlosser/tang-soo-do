@@ -1,0 +1,112 @@
+[
+  {
+    "belt": "orange",
+    "stripes": 0,
+    "gup": 8,
+    "description": "Low block (side stance), reverse middle punch (front stance)"
+  },
+  {
+    "belt": "orange",
+    "stripes": 0,
+    "gup": 8,
+    "description": "Inside outside block (side stance), reverse high punch (front stance)"
+  },
+  {
+    "belt": "orange",
+    "stripes": 0,
+    "gup": 8,
+    "description": "High block (side stance), reverse middle punch (front stance)"
+  },
+  {
+    "belt": "green",
+    "stripes": 0,
+    "gup": 6,
+    "description": "Reverse elbow strike (front stance), crossing elbow strike (side stance), high knife hand strike (no change), reverse high spear hand strike (front stance), low knife hand clear (side stance)"
+  },
+  {
+    "belt": "green",
+    "stripes": 1,
+    "gup": 5,
+    "description": "Low cross block (front stance), preparation (side stance), high cross block (front stance), high knife hand strike (side stance), reverse high spear hand strike (front stance), low knife hand clear (side stance)"
+  },
+  {
+    "belt": "green",
+    "stripes": 2,
+    "gup": 4,
+    "description": "Hopping forward (horse stance), double low block, double high block, double hammer strike middle body, right hand inside/outside block -- left hand low block, right hand low block -- left hand inside/outside block, right high punch, left high punch"
+  },
+  {
+    "belt": "red",
+    "stripes": 0,
+    "gup": 3,
+    "description": "Hopping forward (horse stance), high double back fist strike -- middle double straight punch -- high double knife hand strike (all motions completed during a single jump), double high knife hand clear, double low knife hand groin strike, double high palm strike (under the chin), double high knife hand clear, double low knife hand clear"
+  },
+  {
+    "belt": "red",
+    "stripes": 1,
+    "gup": 2,
+    "description": "Hopping forward (horse stance), double elbow strike to the rear, double high back fist strike, double low block, double upper-cut punch, double knife hand high clear, right hand low block / left hand inside/out block, left hand low block / right hand inside/outside block,(start of run) right hand high crossing spear hand, right side high elbow strike,  right side high knife hand strike, left side high elbow strike into right hand, left low block, right middle punch; repeat (run) on the other side"
+  },
+  {
+    "belt": "red",
+    "stripes": 2,
+    "gup": 1,
+    "description": "Hopping forward (horse stance), double lock block in horse stance, left open hand check, right open hand check, (start run) left middle punch, left backfist attack, right middle punch, right backfist attack, right side low cross block, pull back and right side high cross block, right hand check block, shift to right facing front stance and back leg front kick, shift back to horse stance with left inside/outside block (end run), repeat run on left side, left middle attack, left backfist, right middle attack, right backlist"
+  },
+  {
+    "belt": "red",
+    "stripes": 2,
+    "gup": 1,
+    "description": "Hopping forward (horse stance), double open hand low block, (start run) left hand to right ear and right hand to high preparation, high block with left hand and high knife hand attack with right, circle hands to the left side with left hand center chest and right hand low open hand block, slowly prepare right leg side kick, kick slowly and retract, left hand short punch, left elbow to front, left knife hand, right middle punch (end run), repeat run on left side, left front leg kick, step forward with low clear"
+  },
+  {
+    "belt": "black",
+    "stripes": 0,
+    "description": "Reverse outside/inside block (front stance), back leg front kick, skip up backfist (cross leg stance), spinning backfist in side stance, reverse high punch, back leg front kick (step behind the kicking leg), step forward into side stance low knife hand clear"
+  },
+  {
+    "belt": "black",
+    "stripes": 0,
+    "description": "Reverse high punch (front stance), back leg roundhouse kick, spinning inside/outside black back stance, skip up front kick with forward leg, reverse punch in front stance, back leg front kick (step behind the kicking leg), step forward into side stance low knife hand clear"
+  },
+  {
+    "belt": "black",
+    "stripes": 0,
+    "description": "Reverse high knife hand (front stance), back leg turning side kick, spinning low block in side stance, skip up front leg side kick, high clear with reverse high punch in front stance, back leg front kick (step behind kicking leg), step forward into side stance low knife hand clear"
+  },
+  {
+    "belt": "black",
+    "stripes": 0,
+    "description": "Reverse high punch (front stance), front leg skip up roundhouse kick, back kick, back kick, high clear and reverse high punch, back leg front kick (step behind kicking leg), step forward into side stance low knife hand clear"
+  },
+  {
+    "belt": "black",
+    "stripes": 0,
+    "description": "Reverse outside/inside black (front stance), front leg skip up front kick, back leg low-high roundhouse kick, back kick, high clear, back leg front kick (step behind kicking leg), step forward into side stance low knife hand clear"
+  },
+  {
+    "belt": "black",
+    "stripes": 0,
+    "description": "Reverse high punch, skip up front kick, low / high side kick, skip up side kick, right check with left high punch, front kick, left low block (side stance), right reverse high punch (front stance) , left low clear (side stance)"
+  },
+  {
+    "belt": "black",
+    "stripes": 0,
+    "description": "Reverse outside/inside block, skip up front kick, right leg jump side kick, left leg back kick, left check with right high punch, right leg front kick (step behind left), left low block (side stance), left inside/outside block (no change), right reverse high punch (front stance), left low clear (side stance)"
+  },
+  {
+    "belt": "black",
+    "stripes": 0,
+    "description": "Reverse high punch, skip up front kick, Pyong Ahn O Dan strike and pull,reverse right inside/outside block, right leg side kick to the right, left leg back kick, right leg front kick, left leg side kick, left low block, left high block (no change), right reverse punch (front stance), left low clear (side stance)"
+  },
+  {
+    "belt": "black",
+    "stripes": 0,
+    "description": "Reverse high ridge hand strike, skip up front leg front kick, Pyong Ahn O Dan strike and pull, reverse outside/inside block in front stance (left leg forward), right leg outside/inside kick, left leg back kick, left side stance / check block, right reverse punch, right leg roundhouse kick / side kick (same foot), right leg side stance / check block, left reverse high punch, left leg front kick, left side stance low block, left inside/outside ridge hand block (no stance change), right reverse high spear hand strike, left low clear / side stance"
+  },
+  {
+    "belt": "black",
+    "stripes": 0,
+    "description": "Reverse high ridge hand strike, skip up front leg front kick, Pyong Ahn O Dan strike and pull, reverse inside/outside block, right side round house kick, skip up right leg side hook kick (foot down), right leg round house kick (front leg), right check (side stance), left reverse high punch, left side round house kick, right side spinning back hook kick (360 kick), left side check, right reverse high punch, right side front kick (place foot behind left foot), left low block, left inside/outside ridge hand block (no change), right high reverse spear hand, left low clear / side stance"
+  }
+]

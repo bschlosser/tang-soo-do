@@ -1,0 +1,11 @@
+<h2 *ngIf="!gup || gups[gup]">Kicks</h2>
+
+<!-- <a *ngIf="gup && gups[gup]" routerLink="/kicks">Show All</a> -->
+
+<ul>
+  <ng-template ngFor let-item [ngForOf]="data">
+    <li *ngIf="!gup || item.gup == gup">
+        <belt [gup]="item.gup"></belt> {{ item.description }}
+    </li>
+  </ng-template>
+</ul>

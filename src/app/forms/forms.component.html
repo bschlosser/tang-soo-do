@@ -1,0 +1,9 @@
+<h2>Forms</h2>
+
+<ul>
+  <ng-template ngFor let-item [ngForOf]="data">
+    <li *ngIf="!gup || item.gup == gup">
+        <belt [gup]="item.gup"></belt> <a [routerLink]="[item.link, item.linkData]">{{ item.description }}</a> {{ item.hint }}
+    </li>
+  </ng-template>
+</ul>
